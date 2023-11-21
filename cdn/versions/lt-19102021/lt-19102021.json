@@ -1,0 +1,85 @@
+{
+  "jar": "https://innocent-dream.web.app/cdn/versions/lt-19102021/lt-19102021.jar",
+  "libraries": [
+    {
+      "download": "https://innocent-dream.web.app/cdn/libs/jars/discord-game-sdk4j-0.5.2.jar",
+      "name": "discord.jar"
+    },
+    {
+      "download": "https://github.com/ashleygwinnell/Game-Jolt-Java-Game-API/raw/master/GJAPI.jar",
+      "name": "GJAPI.jar"
+    },
+    {
+      "download": "https://innocent-dream.web.app/cdn/libs/jars/gson-2.8.8.jar",
+      "name": "gson.jar"
+    },
+    {
+      "download": "https://innocent-dream.web.app/cdn/libs/jars/intellij-ui-designer.jar",
+      "name": "intellij.jar"
+    },
+    {
+      "download": "https://innocent-dream.web.app/cdn/libs/jars/joml-1.10.0.jar",
+      "name": "joml.jar"
+    },
+    {
+      "download": "https://innocent-dream.web.app/cdn/libs/jars/log4j-1.2-api-2.14.1.jar",
+      "name": "log4japi1.jar"
+    },
+    {
+      "download": "https://innocent-dream.web.app/cdn/libs/jars/log4j-api-2.14.1.jar",
+      "name": "log4japi2.jar"
+    },
+    {
+      "download": "https://innocent-dream.web.app/cdn/libs/jars/log4j-core-2.14.1.jar",
+      "name": "log4jcore.jar"
+    },
+    {
+      "download": "https://innocent-dream.web.app/cdn/libs/jars/lwjgl.jar",
+      "name": "lwjgl.jar"
+    },
+    {
+      "download": "https://innocent-dream.web.app/cdn/libs/jars/lwjgl-assimp.jar",
+      "name": "lwjgl-assimp.jar"
+    },
+    {
+      "download": "https://innocent-dream.web.app/cdn/libs/jars/lwjgl-bgfx.jar",
+      "name": "lwjgl-bgfx.jar"
+    },
+    {
+      "download": "https://innocent-dream.web.app/cdn/libs/jars/lwjgl-glfw.jar",
+      "name": "lwjgl-glfw.jar"
+    },
+    {
+      "download": "https://innocent-dream.web.app/cdn/libs/jars/lwjgl-nanovg.jar",
+      "name": "lwjgl-nanovg.jar"
+    },
+    {
+      "download": "https://innocent-dream.web.app/cdn/libs/jars/lwjgl-nuklear.jar",
+      "name": "lwjgl-nuklear.jar"
+    },
+    {
+      "download": "https://innocent-dream.web.app/cdn/libs/jars/lwjgl-openal.jar",
+      "name": "lwjgl-openal.jar"
+    },
+    {
+      "download": "https://innocent-dream.web.app/cdn/libs/jars/lwjgl-opengl.jar",
+      "name": "lwjgl-opengl.jar"
+    },
+    {
+      "download": "https://innocent-dream.web.app/cdn/libs/jars/lwjgl-par.jar",
+      "name": "lwjgl-par.jar"
+    },
+    {
+      "download": "https://innocent-dream.web.app/cdn/libs/jars/lwjgl-stb.jar",
+      "name": "lwjgl-stb.jar"
+    },
+    {
+      "download": "https://innocent-dream.web.app/cdn/libs/jars/NBT-6.1.jar",
+      "name": "NBT.jar"
+    },
+    {
+      "download": "https://innocent-dream.web.app/cdn/libs/jars/zip4j-2.6.4.jar",
+      "name": "zip4j.jar"
+    }
+  ]
+}

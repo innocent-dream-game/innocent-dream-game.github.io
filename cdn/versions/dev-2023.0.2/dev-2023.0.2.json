@@ -1,0 +1,273 @@
+{
+  "jar": {
+    "link": "",
+    "size": -1
+  },
+  "log4jConfig": "https://innocent-dream-game.github.io/cdn/versions/a2023.0.1/log4j.xml",
+  "runArgs": [
+    "-Dfile.encoding=UTF-8"
+  ],
+  "mainClass": "io.innocentdream.InnocentDream",
+  "libraries": {
+    "jars": [
+      {
+        "download": "https://github.com/Vatuu/discord-rpc/releases/download/1.6.2/discord-rpc.jar",
+        "name": "discord.jar",
+        "size": 178572
+      },
+      {
+        "download": "https://repo1.maven.org/maven2/com/google/code/gson/gson/2.10.1/gson-2.10.1.jar",
+        "name": "gson.jar",
+        "size": 283367
+      },
+      {
+        "download": "https://repo1.maven.org/maven2/org/joml/joml/1.10.5/joml-1.10.5.jar",
+        "name": "joml.jar",
+        "size": 712082
+      },
+      {
+        "download": "https://repo1.maven.org/maven2/org/apache/logging/log4j/log4j-1.2-api/2.22.0/log4j-1.2-api-2.22.0.jar",
+        "name": "log4j-api-1.2.jar",
+        "size": 344375
+      },
+      {
+        "download": "https://repo1.maven.org/maven2/org/apache/logging/log4j/log4j-api/2.22.0/log4j-api-2.22.0.jar",
+        "name": "log4j-api.jar",
+        "size": 313296
+      },
+      {
+        "download": "https://repo1.maven.org/maven2/org/apache/logging/log4j/log4j-core/2.22.0/log4j-core-2.22.0.jar",
+        "name": "log4j.jar",
+        "size": 1847550
+      },
+      {
+        "download": "https://repo1.maven.org/maven2/org/lwjgl/lwjgl/3.3.1/lwjgl-3.3.1.jar",
+        "name": "lwjgl.jar",
+        "size": 724243
+      },
+      {
+        "download": "https://repo1.maven.org/maven2/org/lwjgl/lwjgl-assimp/3.3.1/lwjgl-assimp-3.3.1.jar",
+        "name": "lwjgl-assimp.jar",
+        "size": 234537
+      },
+      {
+        "download": "https://repo1.maven.org/maven2/org/lwjgl/lwjgl-bgfx/3.3.1/lwjgl-bgfx-3.3.1.jar",
+        "name": "lwjgl-bgfx.jar",
+        "size": 167618
+      },
+      {
+        "download": "https://repo1.maven.org/maven2/org/lwjgl/lwjgl-glfw/3.3.1/lwjgl-glfw-3.3.1.jar",
+        "name": "lwjgl-glfw.jar",
+        "size": 128801
+      },
+      {
+        "download": "https://repo1.maven.org/maven2/org/lwjgl/lwjgl-nanovg/3.3.1/lwjgl-nanovg-3.3.1.jar",
+        "name": "lwjgl-nanovg.jar",
+        "size": 122102
+      },
+      {
+        "download": "https://repo1.maven.org/maven2/org/lwjgl/lwjgl-nuklear/3.3.1/lwjgl-nuklear-3.3.1.jar",
+        "name": "lwjgl-nuklear.jar",
+        "size": 430564
+      },
+      {
+        "download": "https://repo1.maven.org/maven2/org/lwjgl/lwjgl-openal/3.3.1/lwjgl-openal-3.3.1.jar",
+        "name": "lwjgl-openal.jar",
+        "size": 88237
+      },
+      {
+        "download": "https://repo1.maven.org/maven2/org/lwjgl/lwjgl-opengl/3.3.1/lwjgl-opengl-3.3.1.jar",
+        "name": "lwjgl-opengl.jar",
+        "size": 921563
+      },
+      {
+        "download": "https://repo1.maven.org/maven2/org/lwjgl/lwjgl-par/3.3.1/lwjgl-par-3.3.1.jar",
+        "name": "lwjgl-par.jar",
+        "size": 50384
+      },
+      {
+        "download": "https://repo1.maven.org/maven2/org/lwjgl/lwjgl-stb/3.3.1/lwjgl-stb-3.3.1.jar",
+        "name": "lwjgl-stb.jar",
+        "size": 112380
+      },
+      {
+        "download": "https://repo1.maven.org/maven2/org/lwjgl/lwjgl-vulkan/3.3.1/lwjgl-vulkan-3.3.1.jar",
+        "name": "lwjgl-vulkan.jar",
+        "size": 4754626
+      },
+      {
+        "download": "https://maven.scijava.org/content/repositories/public/com/github/Querz/NBT/6.1/NBT-6.1.jar",
+        "name": "NBT.jar",
+        "size": 90063
+      },
+      {
+        "download": "https://repo1.maven.org/maven2/net/lingala/zip4j/zip4j/2.11.4/zip4j-2.11.4.jar",
+        "name": "zip4j.jar",
+        "size": 210003
+      }
+    ],
+    "natives": {
+      "windows": [
+        {
+          "download": "https://innocent-dream-game.github.io/cdn/libs/2023.0.0/natives/windows/assimp.dll",
+          "name": "assimp.dll",
+          "size": 5905920
+        },
+        {
+          "download": "https://innocent-dream-game.github.io/cdn/libs/2023.0.0/natives/windows/bgfx.dll",
+          "name": "bgfx.dll",
+          "size": 1102336
+        },
+        {
+          "download": "https://innocent-dream-game.github.io/cdn/libs/2023.0.0/natives/windows/glfw.dll",
+          "name": "glfw.dll",
+          "size": 365568
+        },
+        {
+          "download": "https://innocent-dream-game.github.io/cdn/libs/2023.0.0/natives/windows/lwjgl.dll",
+          "name": "lwjgl.dll",
+          "size": 457216
+        },
+        {
+          "download": "https://innocent-dream-game.github.io/cdn/libs/2023.0.0/natives/windows/lwjgl_nanovg.dll",
+          "name": "lwjgl_nanovg.dll",
+          "size": 525824
+        },
+        {
+          "download": "https://innocent-dream-game.github.io/cdn/libs/2023.0.0/natives/windows/lwjgl_nuklear.dll",
+          "name": "lwjgl_nuklear.dll",
+          "size": 378368
+        },
+        {
+          "download": "https://innocent-dream-game.github.io/cdn/libs/2023.0.0/natives/windows/lwjgl_opengl.dll",
+          "name": "lwjgl_opengl.dll",
+          "size": 362496
+        },
+        {
+          "download": "https://innocent-dream-game.github.io/cdn/libs/2023.0.0/natives/windows/lwjgl_par.dll",
+          "name": "lwjgl_par.dll",
+          "size": 245760
+        },
+        {
+          "download": "https://innocent-dream-game.github.io/cdn/libs/2023.0.0/natives/windows/lwjgl_stb.dll",
+          "name": "lwjgl_stb.dll",
+          "size": 506368
+        },
+        {
+          "download": "https://innocent-dream-game.github.io/cdn/libs/2023.0.0/natives/windows/OpenAL.dll",
+          "name": "OpenAL.dll",
+          "size": 1131008
+        }
+      ],
+      "linux": [
+        {
+          "download": "https://innocent-dream-game.github.io/cdn/libs/2023.0.0/natives/linux/libassimp.so",
+          "name": "libassimp.so",
+          "size": 10465776
+        },
+        {
+          "download": "https://innocent-dream-game.github.io/cdn/libs/2023.0.0/natives/linux/libbgfx.so",
+          "name": "libbgfx.so",
+          "size": 1302672
+        },
+        {
+          "download": "https://innocent-dream-game.github.io/cdn/libs/2023.0.0/natives/linux/libglfw.so",
+          "name": "libglfw.so",
+          "size": 373744
+        },
+        {
+          "download": "https://innocent-dream-game.github.io/cdn/libs/2023.0.0/natives/linux/liblwjgl.so",
+          "name": "liblwjgl.so",
+          "size": 441024
+        },
+        {
+          "download": "https://innocent-dream-game.github.io/cdn/libs/2023.0.0/natives/linux/liblwjgl_nanovg.so",
+          "name": "liblwjgl_nanovg.so",
+          "size": 417592
+        },
+        {
+          "download": "https://innocent-dream-game.github.io/cdn/libs/2023.0.0/natives/linux/liblwjgl_nuklear.so",
+          "name": "liblwjgl_nuklear.so",
+          "size": 338040
+        },
+        {
+          "download": "https://innocent-dream-game.github.io/cdn/libs/2023.0.0/natives/linux/liblwjgl_opengl.so",
+          "name": "liblwjgl_opengl.so",
+          "size": 354072
+        },
+        {
+          "download": "https://innocent-dream-game.github.io/cdn/libs/2023.0.0/natives/linux/liblwjgl_par.so",
+          "name": "liblwjgl_par.so",
+          "size": 92936
+        },
+        {
+          "download": "https://innocent-dream-game.github.io/cdn/libs/2023.0.0/natives/linux/liblwjgl_stb.so",
+          "name": "liblwjgl_stb.so",
+          "size": 466160
+        },
+        {
+          "download": "https://innocent-dream-game.github.io/cdn/libs/2023.0.0/natives/linux/libopenal.so",
+          "name": "libopenal.so",
+          "size": 991320
+        }
+      ],
+      "macos": [
+        {
+          "download": "https://innocent-dream-game.github.io/cdn/libs/2023.0.0/natives/macos/libassimp.dylib",
+          "name": "libassimp.dylib",
+          "size": 7805880
+        },
+        {
+          "download": "https://innocent-dream-game.github.io/cdn/libs/2023.0.0/natives/linux/libbgfx.dylib",
+          "name": "libbgfx.dylib",
+          "size": 1010080
+        },
+        {
+          "download": "https://innocent-dream-game.github.io/cdn/libs/2023.0.0/natives/linux/libglfw.dylib",
+          "name": "libglfw.dylib",
+          "size": 213944
+        },
+        {
+          "download": "https://innocent-dream-game.github.io/cdn/libs/2023.0.0/natives/linux/liblwjgl.dylib",
+          "name": "liblwjgl.dylib",
+          "size": 232656
+        },
+        {
+          "download": "https://innocent-dream-game.github.io/cdn/libs/2023.0.0/natives/linux/liblwjgl_nanovg.dylib",
+          "name": "liblwjgl_nanovg.dylib",
+          "size": 522096
+        },
+        {
+          "download": "https://innocent-dream-game.github.io/cdn/libs/2023.0.0/natives/linux/liblwjgl_nuklear.dylib",
+          "name": "liblwjgl_nuklear.dylib",
+          "size": 454448
+        },
+        {
+          "download": "https://innocent-dream-game.github.io/cdn/libs/2023.0.0/natives/linux/liblwjgl_opengl.dylib",
+          "name": "liblwjgl_opengl.dylib",
+          "size": 177368
+        },
+        {
+          "download": "https://innocent-dream-game.github.io/cdn/libs/2023.0.0/natives/linux/liblwjgl_par.dylib",
+          "name": "liblwjgl_par.dylib",
+          "size": 85888
+        },
+        {
+          "download": "https://innocent-dream-game.github.io/cdn/libs/2023.0.0/natives/linux/liblwjgl_stb.dylib",
+          "name": "liblwjgl_stb.dylib",
+          "size": 484376
+        },
+        {
+          "download": "https://innocent-dream-game.github.io/cdn/libs/2023.0.0/natives/linux/libMoltenVK.dylib",
+          "name": "libMoltenVK.dylib",
+          "size": 5669152
+        },
+        {
+          "download": "https://innocent-dream-game.github.io/cdn/libs/2023.0.0/natives/linux/libopenal.dylib",
+          "name": "libopenal.dylib",
+          "size": 830536
+        }
+      ]
+    }
+  }
+}
